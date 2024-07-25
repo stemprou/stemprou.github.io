@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stemprou.github.io/sitemap.html.gz
+Sitemap: https://stemprou.github.io/app/sitemap.html.gz
+Sitemap: https://stemprou.github.io/assets/sitemap.html.gz
+Sitemap: https://stemprou.github.io/css/sitemap.html.gz
+Sitemap: https://stemprou.github.io/includes/sitemap.html.gz
+Sitemap: https://stemprou.github.io/item/sitemap.html.gz
+Sitemap: https://stemprou.github.io/src/sitemap.html.gz
